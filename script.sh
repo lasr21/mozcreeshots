@@ -1,3 +1,5 @@
 #!/bin/bash
 phantomjs --ssl-protocol=any screen.js
-mv *.png mex/
+mv *com.png img/mex/completo
+mv *rec.png img/mex/recortado
+

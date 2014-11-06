@@ -9,12 +9,12 @@ page.viewportSize = { width: 2048, height: 900 };
 
 var tomascreen_recortado = function () {
   page.clipRect = { top: 260, left: 545, width: 970, height: 600, };
-  page.render('rec_' + nom + '_mex_.png');
+  page.render(nom + '_mex_rec.png');
   phantom.exit();	
 };
 
 var tomascreen_completo = function () {
-  page.render('com_' + nom + '_mex_.png');
+  page.render(nom + '_mex_com.png');
 };
 
 //Mexico screenshot
