@@ -1,0 +1,10 @@
+World https://location.services.mozilla.com/map#2/16.0/-1.1
+
+MEX https://location.services.mozilla.com/map#11/19.4161/-99.1303
+
+GDL https://location.services.mozilla.com/map#11/20.6463/-103.3106
+
+MTY https://location.services.mozilla.com/map#11/25.6991/-100.3072
+
+QRO https://location.services.mozilla.com/map#11/20.6013/-100.3965
+
